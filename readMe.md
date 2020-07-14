@@ -1,7 +1,7 @@
 # Curved Lane Detection for Self Driving Cars | OpenCV Python
 
 
-[![Watch Video](https://github.com/murtazahassan/Curved-Lane-Detection/blob/master/CurvedLaneDetection%20(1).jpg)]
+[![Watch Video](https://github.com/mr-jestin-roy/Lane-Detection-for-Self-Driving-Cars/blob/master/CurvedLaneDetection%20(1).jpg)]
 
 #CurvedLaneDetection
 
